@@ -25,7 +25,11 @@ SECRET_KEY = '1qkhagzvhzq4hy-c+0baphfpq()=&$9u)!5l3yhl@5v@%%8xq9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "iremses.pythonanywhere.com",
+]
+
+
 
 
 # Application definition
